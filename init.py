@@ -1,1 +1,1 @@
-from main import pendulum
+from main import pendulum, general_pendulum
