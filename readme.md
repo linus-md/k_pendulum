@@ -11,7 +11,7 @@ from k_pendulum import pendulum
 ([x1^2 + y1^2 - 1], [u1, v1, x1*l1, y1*l1 - 1, 0])
 ```
 
-or a more general equation 
+or  more general equations:
 
 ```
 
